@@ -1,1 +1,1 @@
-# Transfer-entropy-analysis-reveals-communication-dynamics-between-termite-castes-
+# Transfer-entropy-analysis-reveals-interaction-dynamics-between-termite-castes-
